@@ -4,7 +4,7 @@ function init() {
   // Write your JavaScript code inside the init() function
 const body = document.body
 let index = 0;
- addEventListener
+ body.addEventListener
 // This is the function that would be invoked by the event listener.
 function onKeyDownHandler(e) {
   const key = parseInt(e.detail || e.which);
