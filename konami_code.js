@@ -2,6 +2,7 @@ const code = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]
 
 function init() {
   // Write your JavaScript code inside the init() function
+const body = document.body
 let index = 0;
  addEventListener
 // This is the function that would be invoked by the event listener.
